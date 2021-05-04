@@ -1,4 +1,4 @@
-Handy little script I wrote a while back that could prove useful in the future - doesn't work with tensorflow-gpu > 2.4 at the moment.
+Handy little script I wrote a while back that could prove useful in the future - doesn't work with tensorflow-gpu > 2.2 at the moment.
 
 If future me is using conda, see the following:
 
